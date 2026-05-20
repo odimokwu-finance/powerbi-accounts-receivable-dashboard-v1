@@ -1,0 +1,5 @@
+PaymentStatusID,PaymentStatus
+1,Paid
+2,Partially Paid
+3,Open
+4,Overdue
